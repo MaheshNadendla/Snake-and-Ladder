@@ -1,0 +1,60 @@
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 85px;
+    width: 85px;
+    
+    
+    
+    
+}
+div{
+    font-size: larger;
+}
+.Total{
+    display: flex;
+    justify-content: center;
+}
+.Container,.Container1{
+    display: flex;
+    justify-content: center;
+}
+
+.Dice{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    align-items: center;
+    margin-top: 20px;
+    
+}
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: sticky;
+}
+.DiceNumber1,.DiceNumber2{
+    border: 1px solid;
+    padding: 5px;
+}
+#Main{
+   
+   
+    background-color: blue;
+    width: 850px;
+    height: 850px;
+
+    background-image: url("https://media.istockphoto.com/id/455302535/vector/snakes-and-ladders.jpg?s=612x612&w=0&k=20&c=bRlBIvz30kGjNqn21m2xL4zGnvkXeM4RlfcL79r-D48=");
+    /* https://miro.medium.com/v2/resize:fit:640/format:webp/0*c9bXWasx-R2aDVHV.jpg"); */
+    /* https://media.istockphoto.com/id/531466314/vector/snakes-and-ladders.jpg?s=2048x2048&w=is&k=20&c=buWMCDue-gmcM97CLL0Cb5w5Qs31koIr9oO2RHrX2qY="); */
+    
+    background-size: cover;
+}
+
+img{
+    height: 50px;
+    width: 50px;
+  
+}
